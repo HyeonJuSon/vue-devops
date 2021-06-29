@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="★ Choppa Dont Bite Me ★" />
+  <HelloWorld msg="★ Choppa Dont Bite Me ★ made by SHJ" />
 </template>
 
 <script>
